@@ -87,6 +87,10 @@
                 <behavior>Edit</behavior>
                 <field>Marcin_Ola__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Piotrek__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
